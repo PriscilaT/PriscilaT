@@ -1,6 +1,7 @@
 ### Olá, sou Priscila Teodório :)
 
 📚 Estudo ciência da computação na Universidade Federal de Alagoas - UFAL.
+
 👨🏻‍💻 Atualmente trabalhando como estagiária na SEPLAG/AL.
 
 <div align="center">
